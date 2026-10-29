@@ -33,7 +33,7 @@ Automated farming bot for [OpenFi](https://app.open-fi.xyz/) testnet tasks — m
 
 1. **Clone this repo:**
    ```bash
-   git clone https://github.com/cryptodai3/OpenFi-Automation-CDY.git
+   git clone https://github.com/DalleDai/OpenFi-Automation-CDY.git
    ````
    ```bash
    cd OpenFi-Automation-CDY
